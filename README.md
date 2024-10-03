@@ -7,13 +7,13 @@ Usage of SFML Library.
 
 ## Appearance
 
-![alt text](image-1.png)
+<img src="image-1.png" alt="alt text" width="400"/>
 
-![alt text](image-2.png)
+<img src="image-2.png" alt="alt text" width="400"/>
 
 ## Logical Structure
 
-![alt text](image.png)
+![](image.png)
 
 See report.pdf for more details
 
