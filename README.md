@@ -1,9 +1,9 @@
 Pacman project in C++
 =======================================
 
-Project developed during Advanced Programming course in UAntwerp.
+Project developed during Advanced Programming course at UAntwerp.
 
-Usage of SFML Library.
+Usage of SFML library for graphics.
 
 ## Appearance
 
