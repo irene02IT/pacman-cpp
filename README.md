@@ -13,9 +13,9 @@ Usage of SFML Library.
 
 ## Logical Structure
 
-![](image.png)
+<img src="image.png" alt="alt text" width="400"/>
 
 See report.pdf for more details
 
-### Sad story short
+#### Sad story short
 It caused a lot of tears and blood and I didn't even pass the course.
