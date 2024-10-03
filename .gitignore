@@ -1,0 +1,8 @@
+.idea
+cmake-build-debug
+cmake-build-docker
+.DS_Store
+!src
+!.circleci/config.yml
+/CMakeLists.txt
+cmake_modules
